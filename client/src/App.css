@@ -1,0 +1,86 @@
+/* * {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+} */
+
+/* body {
+    padding: 2rem;
+} */
+.logContainer {  
+    display: flex;
+      justify-content: center;
+      align-items: right;
+}
+/* Log In / Log Out button style */
+.logBtn {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.00rem;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: royalblue;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem;
+    border-radius: 8px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    width: 142px;
+    cursor: pointer;
+}
+/* Add Residents button style */
+.resBtn {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: royalblue;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem;
+    border-radius: 8px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    width: 170px;
+    cursor: pointer;
+}
+/* Update button style */
+.updateBtn {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: royalblue;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem;
+    border-radius: 8px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    width: 145px;
+    cursor: pointer;
+}
+/* Back button style */
+.backBtn {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: royalblue;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem;
+    border-radius: 8px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    width: 145px;
+    cursor: pointer;
+}
+/* Resident Info style  */
+.resInfo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: royalblue;
+    text-align: center;
+    margin-top: 0.5rem;
+}
